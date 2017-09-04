@@ -1,0 +1,5 @@
+# application.yml
+---
+spring:
+  application:
+    name: lab4-eureka-server
